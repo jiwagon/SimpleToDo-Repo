@@ -1,6 +1,6 @@
-# TodoListApp-Repo
+# SimpleToDo-Repo
 
-Simple Todo app for CodePath
+Simple Todo List App 
 
 # Project 1 - Simple ToDo
 
